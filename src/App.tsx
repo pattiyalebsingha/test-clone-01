@@ -111,7 +111,7 @@ function App() {
               <input
                 disabled
                 style={{
-                  background: "lightblue",
+                  background: "red",
                 }}
                 value={number}
               ></input>
